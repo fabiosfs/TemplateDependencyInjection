@@ -2,7 +2,7 @@
 
 Este é um template de projeto utilizando injeção de dependência focando mais no clean code.
 
-Neste projeto utilizei Entity Framework Core de ORM, banco de dados SQL Server, para conectar em sua base.
+Neste projeto utilizei Entity Framework Core de ORM, banco de dados SQL Server.
 
 Para execução do projeto localmente, você deve ter instalado no seu computador o SQL Server e deve alterar a connection string do banco de dados que se encontra no arquivo appsettings.json, propriedade FirstDb.
 
