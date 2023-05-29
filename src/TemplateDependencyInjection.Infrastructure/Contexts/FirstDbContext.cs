@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
 using TemplateDependencyInjection.Domain.Entities;
 
 namespace TemplateDependencyInjection.Infrastructure.Contexts
